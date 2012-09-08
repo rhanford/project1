@@ -1,6 +1,5 @@
-Thi   s is my first line in ESA
+This is my first line in ESA
 
 2This is my second line in SEA
-   :wq
 
 3This is my thrid line in SEA
